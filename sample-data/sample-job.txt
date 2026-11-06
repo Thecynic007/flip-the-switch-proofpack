@@ -1,0 +1,9 @@
+Junior Backend Developer
+We are looking for a junior developer to join our small team.
+You will:
+- Build and maintain REST APIs in Node.js
+- Write SQL queries and work with databases
+- Write automated tests for your code
+- Deploy services to the cloud (AWS preferred)
+- Work with teammates using Git and code reviews
+Nice to have: experience with Docker.
