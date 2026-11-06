@@ -1,8 +1,0 @@
-We are a small team looking for a junior frontend developer.
-You will:
-
-Build web pages with JavaScript and React
-Fetch data from APIs and show it clearly
-Write automated tests for your components
-Work with designers and teammates using Git
-Nice to have: TypeScript.

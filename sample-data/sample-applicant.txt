@@ -1,6 +1,0 @@
-Applicant: Sam (made-up example)
-Project 1: Weather App. Built a web page in JavaScript that shows the weather for a city using a free weather service. Used by Sam's classmates. Has a GitHub repo.
-Project 2: Student Notes API. A small Node.js service that saves and lists notes in a database. Sam used AI help to write most of the code and can explain the main parts.
-Coursework: Databases course (basic SQL), Web Programming course.
-Experience: No paid jobs. Volunteered to help organise a college tech club event.
-Not done: No cloud services, no testing, no team projects.
