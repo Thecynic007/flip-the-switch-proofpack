@@ -1,6 +1,6 @@
 # ProofPack
 
-**Demo video:** [YOUTUBE LINK HERE]
+**Demo video:** [YOUTUBE LINK]
 
 ProofPack is a Switch room where three AI agents (scout, mapper and checker) work together to answer one question: can I honestly prove I'm right for this job? You paste in a job description and notes about your real projects. It tells you what you can back up, what you can't, and what to say in an interview.
 
