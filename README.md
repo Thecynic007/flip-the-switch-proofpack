@@ -1,6 +1,8 @@
 # ProofPack
 
-**Demo video:** [YOUTUBE LINK]
+**Demo video:** https://youtu.be/-XioOO6ABtM
+
+**Blog post:** https://arvindbuilds.hashnode.dev/i-built-an-ai-team-that-stops-me-from-exaggerating-my-cv
 
 ProofPack is a Switch room where three AI agents (scout, mapper and checker) work together to answer one question: can I honestly prove I'm right for this job? You paste in a job description and notes about your real projects. It tells you what you can back up, what you can't, and what to say in an interview.
 
